@@ -41,4 +41,4 @@ Notes about saved puzzles:
   * transcritions of puzzles partially solved by hand
     * `p1`
     * `p2`
-    * `p3` (perhaps notable because of how much is left empty)
+    * `p3` (perhaps notable because it looks like a set of starting clues and the solver can't do anything with it)
