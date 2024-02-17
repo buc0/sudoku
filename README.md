@@ -32,3 +32,8 @@ Notes about saved puzzles:
   * `puz_vh` ("very hard")
 * cannot be solved
   * `puz_e` (may have been marked as "easy", source forgotten)
+  * likely from "Simon Tatham's Portable Puzzle Collection"
+    * `hard1`
+    * `hard2`
+    * `hard3`
+    * `hard4`
