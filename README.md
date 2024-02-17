@@ -1,5 +1,9 @@
 # sudoku
-An inferential sudok solver
+An inferential sudok solver.
+
+This solver uses only inference from existing facts.  It does not perform any brute-force solving or engage in any consideration of hypotheticals (e.g. "if this cell were a 7, how would that affect things").  As such with its current toolbox of inferences it can solve a majority of published sudoku puzzles.  The example puzzles demonstrate a bias towards collecting puzzles that require the development of additional solving methods.
+
+As an inferational solver the script always knows the immediate reason why it adding something as a new "fact", though the one reported may be only one of several possible reasons.  There is room for improvement in this feature, such as preferring certain reasons over others or being able to report all possible reasons.
 
 The script reads STDIN for commands.  Note that `x` and `y` values given in commands are zero-based starting from the top left of the puzzle.
 
