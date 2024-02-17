@@ -38,7 +38,7 @@ Notes about saved puzzles:
     * `hard3`
     * `hard4`
   * `u1` (source forgotten)
-  * transcritions of puzzles partially solved by hand
+  * ambiguous puzzles allowing more than one solution. retained because it may be possible to extend the solver to recognize that these are ambiguous. All are believed to be at the point of ambiguity.
     * `p1`
     * `p2`
-    * `p3` (perhaps notable because it looks like a set of starting clues and the solver can't do anything with it)
+    * `p3`
