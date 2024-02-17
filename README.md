@@ -37,3 +37,8 @@ Notes about saved puzzles:
     * `hard2`
     * `hard3`
     * `hard4`
+  * `u1` (source forgotten)
+  * transcritions of puzzles partially solved by hand
+    * `p1`
+    * `p2`
+    * `p3` (perhaps notable because of how much is left empty)
