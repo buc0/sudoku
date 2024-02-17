@@ -13,3 +13,22 @@ The three recognized commands are:
 3. Read an entire 9x9 grid from the next nine STDIN lines: `e`
 
 The first two commands were designed with the idea of using this script as a tool to assist in solving a puzzle manually.  The third command was added as a way to more easily enter an entire puzzle for testing the solver's capabilities.
+
+Notes about saved puzzles:
+* empty puzzle (template for editing)
+  * `puz0`
+* can be fully solved
+  * `puz1`
+  * `puz2`
+  * `puz3`
+  * `puz4`
+  * `puz5`
+  * `puz6`
+  * `puz7`
+  * `puz8`
+  * `puz9`
+  * `puz10`
+  * `puz11`
+  * `puz_vh` ("very hard")
+* cannot be solved
+  * `puz_e` (may have been marked as "easy", source forgotten)
